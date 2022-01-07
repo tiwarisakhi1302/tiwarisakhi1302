@@ -1,4 +1,4 @@
-Hi, I’m Sakshi Tiwari
+Hi, I’m Sakshi Tiwari persuing my btech in computer science from jaypee institute of information technology.
 - 👀 I’m interested in web development. I enjoy learning new things.
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on web projects
